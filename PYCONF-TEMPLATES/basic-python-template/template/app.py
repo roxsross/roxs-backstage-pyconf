@@ -1,0 +1,1 @@
+print("Generating tech 4 impact with Python!")
